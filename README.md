@@ -1,34 +1,43 @@
-# 👋 Hello World, I'm Badreddine!
+# 👋 Salut, moi c'est [Ton Prénom] !
 
-### 🌟 About Me
-Hey there! I am a passionate **Business Intelligence Developer** with a strong foundation in web development and backend technologies. I love creating solutions that are efficient, elegant, and meaningful!
-
----
-
-### 💻 Skills
-
-- **Web Development Technologies**  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-- **Programming Languages**  
-  `JAVA` | `PHP` | `JAVASCRIPT` | `TYPESCRIPT` | `PYTHON`
-
-- **Frameworks**  
-  - **Backend** : `SPRING`, `SPRING BOOT`, `SPRING DATA`, `SPRING SECURITY`
-  - **Frontend** : `ANGULAR`, `TAILWINDCSS`, `BOOTSTRAP`
-
-- **Databases**  
-  `MySQL`, `PostgreSQL`, `MongoDB`
+🎯 **Data Analyst | Business Intelligence | AI Enthusiast**
 
 ---
 
-### 📍 Location
-- Morocco 🇲🇦 | Bouskoura - Casablanca
+## À propos de moi
 
-### 📬 Contact Me
-- Email: `badr******@gmail.com`
+Passionné par l'analyse de données, l'optimisation des processus métiers et l'intelligence artificielle, je transforme les données en informations exploitables pour soutenir la prise de décision stratégique.
+
+- 📊 Data Analyst : Traitement, visualisation et interprétation des données
+- 📈 Business Intelligence : Développement de dashboards interactifs avec Power BI, Tableau
+- 🤖 Intelligence Artificielle : Exploration du Machine Learning et du NLP
+- 🛠️ Outils : SQL | Python | R | Power BI | Excel | Tableau | Scikit-learn | Pandas
 
 ---
 
-> _"Always learning, always growing."_ 🚀
+## Ce que je fais actuellement
+
+- Développement de projets de BI pour améliorer la visibilité des KPIs d’entreprise
+- Formation continue en Machine Learning et Deep Learning
+- Création de solutions d’automatisation de reporting et d'analyse prédictive
+
+---
+
+## Projets récents
+
+- 📊 [Dashboard de Suivi des Articles par Couverture en Jours (Power BI)](lien_vers_le_projet)
+- 🤖 [Prototype de chatbot intelligent pour e-commerce (Python, IA)](lien_vers_le_projet)
+- 🛠️ [Automatisation de rapports Excel avec VBA](lien_vers_le_projet)
+
+---
+
+## Me contacter
+
+- 📧 Email : [ton.email@example.com]
+- 💼 LinkedIn : [Ton profil LinkedIn]
+- 🌐 Portfolio : [Lien vers ton portfolio si tu en as un]
+
+---
+
+> "La donnée n’a de valeur que si elle raconte une histoire."
+
