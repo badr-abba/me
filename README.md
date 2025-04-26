@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est [Ton Prénom] !
+# 👋 Salut, moi c'est BADREDDINE ABBA !
 
 🎯 **Data Analyst | Business Intelligence | AI Enthusiast**
 
@@ -33,9 +33,9 @@ Passionné par l'analyse de données, l'optimisation des processus métiers et l
 
 ## Me contacter
 
-- 📧 Email : [ton.email@example.com]
-- 💼 LinkedIn : [Ton profil LinkedIn]
-- 🌐 Portfolio : [Lien vers ton portfolio si tu en as un]
+- 📧 Email : badreddineabba@gmail.com
+- 💼 LinkedIn : ****
+- 🌐 Portfolio : ****
 
 ---
 
